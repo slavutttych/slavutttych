@@ -1,6 +1,4 @@
 
-<img src="header.png" alt="Banner">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>
 <p align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></p>
 <p align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF781&center=true&repeat=false&width=500&lines=Unity+game+developer" alt="Typing SVG" /></p>
