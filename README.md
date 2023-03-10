@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, こんにちは, I'm Slavutttych</a> 
+<img src="header.png" alt="Banner">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>
 <p align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></p>
@@ -32,3 +32,4 @@
 <img align="right" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white" alt="Visual Studio">
 </p>
 <br><p align="right">"...Oh comon man, i just opened you, but you already eat my 8gb ram..."
+<h3 align="center">My projects</h3>
