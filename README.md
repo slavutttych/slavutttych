@@ -46,6 +46,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slavutttych&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slavutttych&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=slavutttych)](https://github.com/slavutttych/github-profile-trophy)
-//![Snake animation](https://github.com/slavutttych/slavutttych/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/slavutttych/slavutttych/blob/output/github-contribution-grid-snake.svg)
 </div>
 
