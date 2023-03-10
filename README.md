@@ -2,7 +2,7 @@
 <h1 align="center">Hi, こんにちは, I'm Slavutttych</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></a>
+<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></p>
 <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF781&center=true&repeat=false&width=500&lines=Unity+game+developer" alt="Typing SVG" /></p>
 </p>
 <h2 align="center"> A few words about me</h2>
