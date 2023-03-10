@@ -1,9 +1,9 @@
-
+<img src="header.png" alt="Banner">
 <p>
 <p align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></p>
 <p align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF781&center=true&repeat=false&width=500&lines=Unity+game+developer" alt="Typing SVG" /></p>
 </p>
-<h2 align="center"> A few words about me</h2>
+<h1 align="center"> A few words about me</h1>
 <p>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#">
@@ -30,4 +30,4 @@
 <img align="right" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white" alt="Visual Studio">
 </p>
 <br><p align="right">"...Oh comon man, i just opened you, but you already eat my 8gb ram..."
-<h3 align="center">My projects</h3>
+<h2 align="center">My projects</h2>
