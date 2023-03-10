@@ -33,7 +33,7 @@
 <div align="center">
   
 ###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slavutttych&repo=slavutttych)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slavutttych&repo=slavutttych)](https://github.com/slavutttych/slavutttych)
 </div>
 <br/>
 <h1 align="center">My stats</h1>
