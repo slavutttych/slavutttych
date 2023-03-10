@@ -30,4 +30,5 @@
 <img align="right" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white" alt="Visual Studio">
 </p>
 <br><p align="right">"...Oh comon man, i just opened you, but you already eat my 8gb ram..."
+<br></br>
 <h2 align="center">My projects</h2>
