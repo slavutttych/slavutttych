@@ -1,5 +1,4 @@
 <img src="header.png" alt="Banner">
-<p align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76060&center=true&repeat=false&width=500&lines=C%23+front-end+developer" alt="Typing SVG" /></p>
 <p align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BF781&center=true&repeat=false&width=500&lines=Unity+game+developer" alt="Typing SVG" /></p>
 <h1 align="center"> A few words about me</h1>
 <p>
