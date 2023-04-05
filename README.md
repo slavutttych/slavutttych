@@ -32,7 +32,7 @@
 <div align="center">
   
 ###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slavutttych&repo=slavutttych)](https://github.com/slavutttych/slavutttych)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slavutttych&repo=Unity-FPS-Movement-Lite)](https://github.com/slavutttych/Unity-FPS-Movement-Lite)
 </div>
 <br/>
 <h1 align="center">My stats</h1>
